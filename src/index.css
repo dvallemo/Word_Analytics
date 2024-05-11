@@ -75,13 +75,13 @@ body {
 }
 
 .warning {
-  position: absolute;
+  /* position: absolute; */
   bottom: 15px;
   left: 35px;
   color: red;
   font-size: 14px;
   margin-top: 5px;
-  margin-left: 5px;
+  margin-left: -10px;
 }
 
 .stats {
