@@ -1,6 +1,6 @@
-# React + Vite
+# Word Analytics 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Application that counts characters and words. It aslo counts the maximum Facebook and Instagram characters left
 
 Currently, two official plugins are available:
 
